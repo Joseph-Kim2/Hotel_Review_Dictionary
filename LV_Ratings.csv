@@ -1,0 +1,505 @@
+﻿Hotel name,Review Score,User country,Season,Traveler type,Review month,Review weekday,User continent
+Circus Circus Hotel & Casino Las Vegas,5,USA,Winter,Friends,January,Thursday,North America
+Circus Circus Hotel & Casino Las Vegas,3,USA,Winter,Business,January,Friday,North America
+Circus Circus Hotel & Casino Las Vegas,5,USA,Spring,Families,February,Saturday,North America
+Circus Circus Hotel & Casino Las Vegas,4,UK,Spring,Friends,February,Friday,Europe
+Circus Circus Hotel & Casino Las Vegas,4,Canada,Spring,Solo,March,Tuesday,North America
+Circus Circus Hotel & Casino Las Vegas,3,Canada,Spring,Couples,March,Tuesday,North America
+Circus Circus Hotel & Casino Las Vegas,4,UK,Spring,Couples,April,Friday,Europe
+Circus Circus Hotel & Casino Las Vegas,4,USA,Spring,Families,April,Tuesday,North America
+Circus Circus Hotel & Casino Las Vegas,4,India,Spring,Friends,May,Saturday,Asia
+Circus Circus Hotel & Casino Las Vegas,3,Canada,Spring,Families,May,Tuesday,North America
+Circus Circus Hotel & Casino Las Vegas,2,USA,Summer,Families,June,Friday,North America
+Circus Circus Hotel & Casino Las Vegas,3,Australia,Summer,Friends,June,Saturday,Oceania
+Circus Circus Hotel & Casino Las Vegas,2,USA,Summer,Friends,July,Wednesday,North America
+Circus Circus Hotel & Casino Las Vegas,3,USA,Summer,Friends,July,Thursday,North America
+Circus Circus Hotel & Casino Las Vegas,3,UK,Summer,Friends,August,Sunday,Europe
+Circus Circus Hotel & Casino Las Vegas,4,New Zeland,Summer,Families,August,Saturday,Oceania
+Circus Circus Hotel & Casino Las Vegas,1,Canada,Fall,Families,September,Wednesday,North America
+Circus Circus Hotel & Casino Las Vegas,4,USA,Fall,Families,September,Saturday,North America
+Circus Circus Hotel & Casino Las Vegas,3,Canada,Fall,Couples,October,Tuesday,North America
+Circus Circus Hotel & Casino Las Vegas,2,USA,Fall,Couples,October,Monday,North America
+Circus Circus Hotel & Casino Las Vegas,4,UK,Fall,Couples,November,Saturday,Europe
+Circus Circus Hotel & Casino Las Vegas,1,New Zeland,Fall,Couples,November,Monday,Oceania
+Circus Circus Hotel & Casino Las Vegas,4,UK,Winter,Families,December,Saturday,Europe
+Circus Circus Hotel & Casino Las Vegas,2,USA,Winter,Couples,December,Sunday,North America
+Excalibur Hotel & Casino,4,Ireland,Winter,Couples,January,Monday,Europe
+Excalibur Hotel & Casino,4,USA,Winter,Business,January,Saturday,North America
+Excalibur Hotel & Casino,5,Canada,Winter,Couples,February,Friday,North America
+Excalibur Hotel & Casino,3,UK,Winter,Business,February,Thursday,Europe
+Excalibur Hotel & Casino,5,USA,Spring,Solo,March,Wednesday,North America
+Excalibur Hotel & Casino,5,Ireland,Spring,Couples,March,Wednesday,Europe
+Excalibur Hotel & Casino,5,Canada,Spring,Couples,April,Friday,North America
+Excalibur Hotel & Casino,3,Australia,Spring,Couples,April,Friday,Oceania
+Excalibur Hotel & Casino,3,Canada,Spring,Solo,May,Tuesday,North America
+Excalibur Hotel & Casino,3,Egypt,Spring,Friends,May,Wednesday,Africa
+Excalibur Hotel & Casino,4,Australia,Summer,Couples,June,Saturday,Oceania
+Excalibur Hotel & Casino,3,Finland,Summer,Couples,June,Saturday,Europe
+Excalibur Hotel & Casino,4,USA,Summer,Friends,July,Friday,North America
+Excalibur Hotel & Casino,4,Kenya,Summer,Friends,July,Thursday,Africa
+Excalibur Hotel & Casino,4,USA,Summer,Couples,August,Monday,North America
+Excalibur Hotel & Casino,2,USA,Summer,Families,August,Wednesday,North America
+Excalibur Hotel & Casino,3,Jordan,Fall,Business,September,Wednesday,Europe
+Excalibur Hotel & Casino,3,Canada,Fall,Couples,September,Saturday,North America
+Excalibur Hotel & Casino,3,Netherlands,Fall,Families,October,Saturday,Europe
+Excalibur Hotel & Casino,4,Ireland,Fall,Friends,October,Monday,Europe
+Excalibur Hotel & Casino,4,USA,Fall,Families,November,Sunday,North America
+Excalibur Hotel & Casino,4,UK,Fall,Friends,November,Sunday,Europe
+Excalibur Hotel & Casino,4,UK,Winter,Couples,December,Wednesday,Europe
+Excalibur Hotel & Casino,3,Syria,Winter,Solo,December,Tuesday,Asia
+Monte Carlo Resort&Casino,3,UK,Winter,Couples,January,Monday,Europe
+Monte Carlo Resort&Casino,4,USA,Winter,Solo,January,Saturday,North America
+Monte Carlo Resort&Casino,2,USA,Winter,Couples,February,Tuesday,North America
+Monte Carlo Resort&Casino,4,USA,Winter,Couples,February,Tuesday,North America
+Monte Carlo Resort&Casino,3,Canada,Spring,Couples,March,Wednesday,North America
+Monte Carlo Resort&Casino,4,USA,Spring,Business,March,Tuesday,North America
+Monte Carlo Resort&Casino,5,Scotland,Spring,Couples,April,Wednesday,Europe
+Monte Carlo Resort&Casino,2,South Africa,Spring,Business,April,Tuesday,Africa
+Monte Carlo Resort&Casino,4,Australia,Spring,Couples,May,Friday,Oceania
+Monte Carlo Resort&Casino,4,UK,Spring,Couples,May,Monday,Europe
+Monte Carlo Resort&Casino,4,Ireland,Summer,Couples,June,Tuesday,Europe
+Monte Carlo Resort&Casino,4,Canada,Summer,Friends,June,Monday,North America
+Monte Carlo Resort&Casino,4,UK,Summer,Families,July,Friday,Europe
+Monte Carlo Resort&Casino,3,New Zeland,Summer,Couples,July,Wednesday,Oceania
+Monte Carlo Resort&Casino,2,Swiss,Summer,Solo,August,Thursday,Europe
+Monte Carlo Resort&Casino,3,UK,Summer,Families,August,Saturday,Europe
+Monte Carlo Resort&Casino,3,United Arab Emirates,Fall,Friends,September,Friday,Asia
+Monte Carlo Resort&Casino,4,Ireland,Fall,Couples,September,Wednesday,Europe
+Monte Carlo Resort&Casino,3,USA,Fall,Families,October,Friday,North America
+Monte Carlo Resort&Casino,2,USA,Fall,Couples,October,Sunday,North America
+Monte Carlo Resort&Casino,4,Hungary,Fall,Couples,November,Friday,Europe
+Monte Carlo Resort&Casino,1,China,Fall,Business,November,Wednesday,Asia
+Monte Carlo Resort&Casino,2,Greece,Winter,Business,December,Sunday,Europe
+Monte Carlo Resort&Casino,5,Mexico,Winter,Couples,December,Monday,North America
+Treasure Island- TI Hotel & Casino,3,Croatia,Winter,Business,January,Sunday,Europe
+Treasure Island- TI Hotel & Casino,4,Australia,Winter,Couples,January,Thursday,Oceania
+Treasure Island- TI Hotel & Casino,4,Canada,Winter,Friends,February,Monday,North America
+Treasure Island- TI Hotel & Casino,5,USA,Winter,Solo,February,Monday,North America
+Treasure Island- TI Hotel & Casino,4,USA,Spring,Couples,March,Friday,North America
+Treasure Island- TI Hotel & Casino,4,Canada,Spring,Friends,March,Saturday,North America
+Treasure Island- TI Hotel & Casino,4,USA,Spring,Friends,April,Tuesday,North America
+Treasure Island- TI Hotel & Casino,3,Australia,Spring,Families,April,Wednesday,Oceania
+Treasure Island- TI Hotel & Casino,3,India,Spring,Families,May,Friday,Asia
+Treasure Island- TI Hotel & Casino,4,Germany,Spring,Friends,May,Sunday,Europe
+Treasure Island- TI Hotel & Casino,3,USA,Summer,Families,June,Thursday,North America
+Treasure Island- TI Hotel & Casino,4,Canada,Summer,Couples,June,Tuesday,North America
+Treasure Island- TI Hotel & Casino,5,Australia,Summer,Couples,July,Wednesday,Oceania
+Treasure Island- TI Hotel & Casino,4,Malaysia,Summer,Solo,July,Thursday,Asia
+Treasure Island- TI Hotel & Casino,4,Mexico,Summer,Couples,August,Saturday,South America
+Treasure Island- TI Hotel & Casino,4,UK,Summer,Couples,August,Friday,Europe
+Treasure Island- TI Hotel & Casino,3,UK,Fall,Couples,September,Friday,Europe
+Treasure Island- TI Hotel & Casino,4,USA,Fall,Business,September,Tuesday,North America
+Treasure Island- TI Hotel & Casino,5,Australia,Fall,Families,October,Monday,Oceania
+Treasure Island- TI Hotel & Casino,3,USA,Fall,Couples,October,Monday,North America
+Treasure Island- TI Hotel & Casino,5,Thailand,Fall,Couples,November,Friday,Asia
+Treasure Island- TI Hotel & Casino,4,Australia,Fall,Families,November,Friday,Oceania
+Treasure Island- TI Hotel & Casino,4,Canada,Winter,Friends,December,Saturday,North America
+Treasure Island- TI Hotel & Casino,5,Canada,Winter,Couples,December,Thursday,North America
+Tropicana Las Vegas - A Double Tree by Hilton Hotel,4,UK,Winter,Families,January,Sunday,Europe
+Tropicana Las Vegas - A Double Tree by Hilton Hotel,5,USA,Winter,Friends,January,Sunday,North America
+Tropicana Las Vegas - A Double Tree by Hilton Hotel,3,Phillippines,Winter,Couples,February,Wednesday,Asia
+Tropicana Las Vegas - A Double Tree by Hilton Hotel,3,Israel,Winter,Business,February,Thursday,Asia
+Tropicana Las Vegas - A Double Tree by Hilton Hotel,4,Canada,Spring,Business,March,Wednesday,North America
+Tropicana Las Vegas - A Double Tree by Hilton Hotel,4,UK,Spring,Couples,March,Friday,Europe
+Tropicana Las Vegas - A Double Tree by Hilton Hotel,5,Ireland,Spring,Couples,April,Friday,Europe
+Tropicana Las Vegas - A Double Tree by Hilton Hotel,4,India ,Spring,Business,April,Monday,Asia
+Tropicana Las Vegas - A Double Tree by Hilton Hotel,4,New Zeland,Spring,Couples,May,Tuesday,Oceania
+Tropicana Las Vegas - A Double Tree by Hilton Hotel,3,Belgium,Spring,Friends,May,Sunday,Europe
+Tropicana Las Vegas - A Double Tree by Hilton Hotel,4,UK,Summer,Business,June,Tuesday,Europe
+Tropicana Las Vegas - A Double Tree by Hilton Hotel,4,Australia,Summer,Friends,June,Wednesday,Oceania
+Tropicana Las Vegas - A Double Tree by Hilton Hotel,4,UK,Summer,Solo,July,Wednesday,Europe
+Tropicana Las Vegas - A Double Tree by Hilton Hotel,4,UK,Summer,Couples,July,Monday,Europe
+Tropicana Las Vegas - A Double Tree by Hilton Hotel,5,New Zeland,Summer,Friends,August,Saturday,Oceania
+Tropicana Las Vegas - A Double Tree by Hilton Hotel,5,Australia,Summer,Couples,August,Friday,Oceania
+Tropicana Las Vegas - A Double Tree by Hilton Hotel,1,Canada,Fall,Couples,September,Tuesday,North America
+Tropicana Las Vegas - A Double Tree by Hilton Hotel,5,Australia,Fall,Couples,September,Wednesday,Oceania
+Tropicana Las Vegas - A Double Tree by Hilton Hotel,5,UK,Fall,Friends,October,Tuesday,Europe
+Tropicana Las Vegas - A Double Tree by Hilton Hotel,2,USA,Fall,Friends,October,Thursday,North America
+Tropicana Las Vegas - A Double Tree by Hilton Hotel,4,India,Fall,Solo,November,Sunday,Asia
+Tropicana Las Vegas - A Double Tree by Hilton Hotel,5,Netherlands,Fall,Friends,November,Saturday,Europe
+Tropicana Las Vegas - A Double Tree by Hilton Hotel,5,UK,Winter,Couples,December,Saturday,Europe
+Tropicana Las Vegas - A Double Tree by Hilton Hotel,5,UK,Winter,Families,December,Thursday,Europe
+Caesars Palace,5,USA,Winter,Friends,January,Wednesday,North America
+Caesars Palace,4,USA,Winter,Couples,January,Friday,North America
+Caesars Palace,5,Puerto Rico,Winter,Families,February,Tuesday,North America
+Caesars Palace,5,Canada,Winter,Families,February,Thursday,North America
+Caesars Palace,5,USA,Spring,Families,March,Friday,North America
+Caesars Palace,3,USA,Spring,Families,March,Friday,North America
+Caesars Palace,5,Canada,Spring,Couples,April,Thursday,North America
+Caesars Palace,4,USA,Spring,Couples,April,Saturday,North America
+Caesars Palace,1,UK,Spring,Couples,May,Sunday,Europe
+Caesars Palace,4,UK,Spring,Couples,May,Wednesday,Europe
+Caesars Palace,4,USA,Summer,Couples,June,Sunday,North America
+Caesars Palace,1,USA,Summer,Solo,June,Tuesday,North America
+Caesars Palace,5,USA,Summer,Couples,July,Monday,North America
+Caesars Palace,3,UK,Summer,Families,July,Tuesday,Europe
+Caesars Palace,5,UK,Summer,Families,August,Friday,Europe
+Caesars Palace,4,Canada,Summer,Friends,August,Wednesday,North America
+Caesars Palace,5,USA,Fall,Couples,September,Monday,North America
+Caesars Palace,5,USA,Fall,Couples,September,Tuesday,North America
+Caesars Palace,5,USA,Fall,Business,October,Sunday,North America
+Caesars Palace,5,USA,Fall,Friends,October,Thursday,North America
+Caesars Palace,5,Australia,Fall,Couples,November,Sunday,Oceania
+Caesars Palace,3,Australia,Fall,Families,November,Sunday,Oceania
+Caesars Palace,4,USA,Winter,Families,December,Friday,North America
+Caesars Palace,4,USA,Winter,Couples,December,Sunday,North America
+The Cosmopolitan Las Vegas,4,Australia,Winter,Friends,January,Thursday,Oceania
+The Cosmopolitan Las Vegas,5,Australia,Winter,Friends,January,Thursday,Oceania
+The Cosmopolitan Las Vegas,4,Switzerland,Winter,Friends,February,Saturday,Europe
+The Cosmopolitan Las Vegas,5,UK,Winter,Couples,February,Wednesday,Europe
+The Cosmopolitan Las Vegas,5,USA,Spring,Couples,March,Monday,North America
+The Cosmopolitan Las Vegas,5,USA,Spring,Couples,March,Saturday,North America
+The Cosmopolitan Las Vegas,4,Ireland,Spring,Friends,April,Thursday,Europe
+The Cosmopolitan Las Vegas,5,USA,Spring,Business,April,Monday,North America
+The Cosmopolitan Las Vegas,5,Germany,Spring,Families,May,Thursday,Europe
+The Cosmopolitan Las Vegas,2,USA,Spring,Business,May,Wednesday,North America
+The Cosmopolitan Las Vegas,2,Germany,Summer,Couples,June,Wednesday,Europe
+The Cosmopolitan Las Vegas,5,Ireland,Summer,Friends,June,Wednesday,Europe
+The Cosmopolitan Las Vegas,1,USA,Summer,Business,July,Wednesday,North America
+The Cosmopolitan Las Vegas,4,Australia,Summer,Friends,July,Tuesday,Oceania
+The Cosmopolitan Las Vegas,5,Canada,Summer,Families,August,Saturday,North America
+The Cosmopolitan Las Vegas,4,USA,Summer,Couples,August,Sunday,North America
+The Cosmopolitan Las Vegas,5,UK,Fall,Couples,September,Wednesday,Europe
+The Cosmopolitan Las Vegas,5,Norway,Fall,Couples,September,Tuesday,Europe
+The Cosmopolitan Las Vegas,5,USA,Fall,Couples,October,Monday,North America
+The Cosmopolitan Las Vegas,5,UK,Fall,Friends,October,Friday,Europe
+The Cosmopolitan Las Vegas,5,Egypt,Fall,Business,November,Wednesday,Africa
+The Cosmopolitan Las Vegas,5,USA,Fall,Business,November,Friday,North America
+The Cosmopolitan Las Vegas,2,Canada,Winter,Couples,December,Tuesday,North America
+The Cosmopolitan Las Vegas,5,USA,Winter,Families,December,Sunday,North America
+The Palazzo Resort Hotel Casino,3,Mexico,Winter,Couples,January,Friday,North America
+The Palazzo Resort Hotel Casino,5,USA,Winter,Families,January,Friday,North America
+The Palazzo Resort Hotel Casino,5,Canada,Winter,Couples,February,Friday,North America
+The Palazzo Resort Hotel Casino,4,USA,Winter,Couples,February,Tuesday,North America
+The Palazzo Resort Hotel Casino,5,Canada,Spring,Families,March,Wednesday,North America
+The Palazzo Resort Hotel Casino,5,Canada,Spring,Families,March,Friday,North America
+The Palazzo Resort Hotel Casino,4,USA,Spring,Couples,April,Sunday,North America
+The Palazzo Resort Hotel Casino,5,Canada,Spring,Couples,April,Saturday,North America
+The Palazzo Resort Hotel Casino,5,France,Spring,Couples,May,Saturday,Europe
+The Palazzo Resort Hotel Casino,5,UK,Spring,Business,May,Friday,Europe
+The Palazzo Resort Hotel Casino,4,USA,Summer,Friends,June,Monday,North America
+The Palazzo Resort Hotel Casino,3,USA,Summer,Couples,June,Friday,North America
+The Palazzo Resort Hotel Casino,4,Spain,Summer,Friends,July,Wednesday,Europe
+The Palazzo Resort Hotel Casino,5,USA,Summer,Families,July,Friday,North America
+The Palazzo Resort Hotel Casino,4,UK,Summer,Friends,August,Sunday,Europe
+The Palazzo Resort Hotel Casino,4,USA,Summer,Business,August,Wednesday,North America
+The Palazzo Resort Hotel Casino,3,UK,Fall,Friends,September,Saturday,Europe
+The Palazzo Resort Hotel Casino,5,USA,Fall,Families,September,Saturday,North America
+The Palazzo Resort Hotel Casino,5,Canada,Fall,Families,October,Wednesday,North America
+The Palazzo Resort Hotel Casino,5,Australia,Fall,Couples,October,Thursday,Oceania
+The Palazzo Resort Hotel Casino,5,Singapore,Fall,Friends,November,Sunday,Asia
+The Palazzo Resort Hotel Casino,3,Brazil,Fall,Families,November,Sunday,South America
+The Palazzo Resort Hotel Casino,5,USA,Winter,Couples,December,Thursday,North America
+The Palazzo Resort Hotel Casino,4,USA,Winter,Families,December,Monday,North America
+Wynn Las Vegas,5,USA,Winter,Couples,January,Saturday,North America
+Wynn Las Vegas,5,USA,Winter,Families,January,Tuesday,North America
+Wynn Las Vegas,4,Canada,Winter,Couples,February,Saturday,North America
+Wynn Las Vegas,5,USA,Winter,Couples,February,Tuesday,North America
+Wynn Las Vegas,5,USA,Spring,Friends,March,Friday,North America
+Wynn Las Vegas,4,USA,Spring,Business,March,Monday,North America
+Wynn Las Vegas,5,USA,Spring,Business,April,Sunday,North America
+Wynn Las Vegas,4,USA,Spring,Couples,April,Monday,North America
+Wynn Las Vegas,3,Singapore,Spring,Solo,May,Monday,Asia
+Wynn Las Vegas,5,UK,Spring,Couples,May,Monday,Europe
+Wynn Las Vegas,5,USA,Summer,Couples,June,Wednesday,North America
+Wynn Las Vegas,5,USA,Summer,Couples,June,Wednesday,North America
+Wynn Las Vegas,5,USA,Summer,Couples,July,Monday,North America
+Wynn Las Vegas,5,Canada,Summer,Couples,July,Sunday,North America
+Wynn Las Vegas,5,Canada,Summer,Couples,August,Sunday,North America
+Wynn Las Vegas,5,Finland,Summer,Solo,August,Saturday,Europe
+Wynn Las Vegas,2,Canada,Fall,Business,September,Monday,North America
+Wynn Las Vegas,5,Canada,Fall,Friends,September,Saturday,North America
+Wynn Las Vegas,4,USA,Fall,Couples,October,Monday,North America
+Wynn Las Vegas,5,UK,Fall,Couples,October,Saturday,Europe
+Wynn Las Vegas,5,Costa Rica,Fall,Business,November,Monday,North America
+Wynn Las Vegas,5,UK,Fall,Couples,November,Wednesday,Europe
+Wynn Las Vegas,5,UK,Winter,Couples,December,Tuesday,Europe
+Wynn Las Vegas,5,USA,Winter,Couples,December,Tuesday,North America
+Trump International Hotel Las Vegas,5,UK,Winter,Solo,January,Tuesday,Europe
+Trump International Hotel Las Vegas,5,India,Winter,Business,January,Saturday,Asia
+Trump International Hotel Las Vegas,5,USA,Winter,Business,February,Wednesday,North America
+Trump International Hotel Las Vegas,5,USA,Winter,Families,February,Tuesday,North America
+Trump International Hotel Las Vegas,5,USA,Spring,Couples,March,Monday,North America
+Trump International Hotel Las Vegas,3,USA,Spring,Couples,March,Wednesday,North America
+Trump International Hotel Las Vegas,4,United Arab Emirates,Spring,Couples,April,Monday,Asia
+Trump International Hotel Las Vegas,5,USA,Spring,Couples,April,Wednesday,North America
+Trump International Hotel Las Vegas,4,Singapore,Spring,Families,May,Friday,Asia
+Trump International Hotel Las Vegas,5,Brazil,Spring,Families,May,Sunday,South America
+Trump International Hotel Las Vegas,5,USA,Summer,Couples,June,Sunday,North America
+Trump International Hotel Las Vegas,5,USA,Summer,Business,June,Wednesday,North America
+Trump International Hotel Las Vegas,5,Canada,Summer,Families,July,Sunday,North America
+Trump International Hotel Las Vegas,4,USA,Summer,Families,July,Monday,North America
+Trump International Hotel Las Vegas,4,Iran,Summer,Couples,August,Sunday,Asia
+Trump International Hotel Las Vegas,5,USA,Summer,Couples,August,Monday,North America
+Trump International Hotel Las Vegas,5,UK,Fall,Families,September,Thursday,Europe
+Trump International Hotel Las Vegas,1,Egypt,Fall,Families,September,Monday,Africa
+Trump International Hotel Las Vegas,5,Ireland,Fall,Friends,October,Thursday,Europe
+Trump International Hotel Las Vegas,5,Australia,Fall,Couples,October,Saturday,Oceania
+Trump International Hotel Las Vegas,2,Germany,Fall,Couples,November,Wednesday,Europe
+Trump International Hotel Las Vegas,4,Australia,Fall,Families,November,Tuesday,Oceania
+Trump International Hotel Las Vegas,4,USA,Winter,Business,December,Tuesday,North America
+Trump International Hotel Las Vegas,5,USA,Winter,Couples,December,Sunday,North America
+The Cromwell,3,Saudi Arabia,Winter,Business,January,Tuesday,Asia
+The Cromwell,4,USA,Winter,Business,January,Saturday,North America
+The Cromwell,5,USA,Winter,Families,February,Sunday,North America
+The Cromwell,5,USA,Winter,Couples,February,Monday,North America
+The Cromwell,2,USA,Spring,Solo,March,Wednesday,North America
+The Cromwell,5,USA,Spring,Friends,March,Sunday,North America
+The Cromwell,5,Canada,Spring,Couples,April,Tuesday,North America
+The Cromwell,2,Canada,Spring,Families,April,Tuesday,North America
+The Cromwell,5,USA,Spring,Friends,May,Friday,North America
+The Cromwell,5,USA,Spring,Couples,May,Monday,North America
+The Cromwell,5,USA,Summer,Friends,June,Wednesday,North America
+The Cromwell,5,USA,Summer,Couples,June,Wednesday,North America
+The Cromwell,5,USA,Summer,Couples,July,Wednesday,North America
+The Cromwell,1,USA,Summer,Friends,July,Thursday,North America
+The Cromwell,5,Netherlands,Summer,Couples,August,Wednesday,Europe
+The Cromwell,4,UK,Summer,Families,August,Monday,Europe
+The Cromwell,5,USA,Fall,Couples,September,Sunday,North America
+The Cromwell,4,Australia,Fall,Business,September,Saturday,Oceania
+The Cromwell,3,USA,Fall,Families,October,Thursday,North America
+The Cromwell,5,Norway,Fall,Friends,October,Tuesday,Europe
+The Cromwell,3,Canada,Fall,Couples,November,Sunday,North America
+The Cromwell,4,USA,Fall,Business,November,Wednesday,North America
+The Cromwell,4,Canada,Winter,Couples,December,Wednesday,North America
+The Cromwell,4,USA,Winter,Couples,December,Wednesday,North America
+Encore at wynn Las Vegas,1,Thailand,Winter,Business,January,Tuesday,Asia
+Encore at wynn Las Vegas,5,USA,Winter,Couples,January,Tuesday,North America
+Encore at wynn Las Vegas,4,UK,Winter,Couples,February,Thursday,Europe
+Encore at wynn Las Vegas,5,USA,Winter,Business,February,Sunday,North America
+Encore at wynn Las Vegas,5,USA,Spring,Couples,March,Friday,North America
+Encore at wynn Las Vegas,4,USA,Spring,Friends,March,Tuesday,North America
+Encore at wynn Las Vegas,3,UK,Spring,Families,April,Monday,Europe
+Encore at wynn Las Vegas,4,Honduras,Spring,Friends,April,Thursday,South America
+Encore at wynn Las Vegas,5,USA,Spring,Business,May,Friday,North America
+Encore at wynn Las Vegas,5,UK,Spring,Friends,May,Monday,Europe
+Encore at wynn Las Vegas,5,UK,Summer,Couples,June,Saturday,Europe
+Encore at wynn Las Vegas,4,USA,Summer,Business,June,Tuesday,North America
+Encore at wynn Las Vegas,5,USA,Summer,Friends,July,Thursday,North America
+Encore at wynn Las Vegas,5,USA,Summer,Families,July,Sunday,North America
+Encore at wynn Las Vegas,5,UK,Summer,Families,August,Thursday,Europe
+Encore at wynn Las Vegas,5,USA,Summer,Families,August,Sunday,North America
+Encore at wynn Las Vegas,5,USA,Fall,Couples,September,Monday,North America
+Encore at wynn Las Vegas,5,UK,Fall,Friends,September,Wednesday,Europe
+Encore at wynn Las Vegas,5,USA,Fall,Couples,October,Friday,North America
+Encore at wynn Las Vegas,4,UK,Fall,Business,October,Thursday,Europe
+Encore at wynn Las Vegas,5,India,Fall,Couples,November,Sunday,Asia
+Encore at wynn Las Vegas,5,USA,Fall,Couples,November,Sunday,North America
+Encore at wynn Las Vegas,5,USA,Winter,Friends,December,Tuesday,North America
+Encore at wynn Las Vegas,5,USA,Winter,Business,December,Tuesday,North America
+Hilton Grand Vacations on the Boulevard,5,USA,Winter,Couples,January,Friday,North America
+Hilton Grand Vacations on the Boulevard,2,USA,Winter,Families,January,Thursday,North America
+Hilton Grand Vacations on the Boulevard,5,Mexico,Winter,Business,February,Tuesday,North America
+Hilton Grand Vacations on the Boulevard,5,Canada,Winter,Couples,February,Friday,North America
+Hilton Grand Vacations on the Boulevard,5,UK,Spring,Couples,March,Tuesday,Europe
+Hilton Grand Vacations on the Boulevard,4,Netherlands,Spring,Couples,March,Thursday,Europe
+Hilton Grand Vacations on the Boulevard,4,Australia,Spring,Business,April,Wednesday,Oceania
+Hilton Grand Vacations on the Boulevard,4,Canada,Spring,Families,April,Monday,North America
+Hilton Grand Vacations on the Boulevard,5,Brazil,Spring,Families,May,Friday,South America
+Hilton Grand Vacations on the Boulevard,1,USA,Spring,Couples,May,Friday,North America
+Hilton Grand Vacations on the Boulevard,5,USA,Summer,Friends,June,Monday,North America
+Hilton Grand Vacations on the Boulevard,5,USA,Summer,Solo,June,Monday,North America
+Hilton Grand Vacations on the Boulevard,4,Finland,Summer,Families,July,Thursday,Europe
+Hilton Grand Vacations on the Boulevard,5,UK,Summer,Families,July,Wednesday,Europe
+Hilton Grand Vacations on the Boulevard,4,USA,Summer,Couples,August,Monday,North America
+Hilton Grand Vacations on the Boulevard,5,UK,Summer,Families,August,Friday,Europe
+Hilton Grand Vacations on the Boulevard,5,Canada,Fall,Families,September,Sunday,North America
+Hilton Grand Vacations on the Boulevard,5,USA,Fall,Solo,September,Wednesday,North America
+Hilton Grand Vacations on the Boulevard,2,UK,Fall,Couples,October,Wednesday,Europe
+Hilton Grand Vacations on the Boulevard,4,USA,Fall,Business,October,Wednesday,North America
+Hilton Grand Vacations on the Boulevard,3,USA,Fall,Families,November,Wednesday,North America
+Hilton Grand Vacations on the Boulevard,4,Mexico,Fall,Families,November,Monday,North America
+Hilton Grand Vacations on the Boulevard,5,USA,Winter,Couples,December,Monday,North America
+Hilton Grand Vacations on the Boulevard,4,Australia,Winter,Couples,December,Tuesday,Oceania
+Marriott's Grand Chateau,4,Canada,Winter,Business,January,Saturday,North America
+Marriott's Grand Chateau,4,USA,Winter,Business,January,Sunday,North America
+Marriott's Grand Chateau,5,USA,Winter,Families,February,Wednesday,North America
+Marriott's Grand Chateau,5,USA,Winter,Business,February,Thursday,North America
+Marriott's Grand Chateau,4,UK,Spring,Friends,March,Tuesday,Europe
+Marriott's Grand Chateau,5,Germany,Spring,Business,March,Monday,Europe
+Marriott's Grand Chateau,5,Canada,Spring,Couples,April,Wednesday,North America
+Marriott's Grand Chateau,4,USA,Spring,Couples,April,Tuesday,North America
+Marriott's Grand Chateau,4,Australia,Spring,Couples,May,Sunday,Oceania
+Marriott's Grand Chateau,4,Canada,Spring,Business,May,Wednesday,North America
+Marriott's Grand Chateau,5,USA,Summer,Families,June,Tuesday,North America
+Marriott's Grand Chateau,5,Australia,Summer,Families,June,Thursday,Oceania
+Marriott's Grand Chateau,5,USA,Summer,Couples,July,Saturday,North America
+Marriott's Grand Chateau,5,Denmark,Summer,Couples,July,Monday,Europe
+Marriott's Grand Chateau,5,Taiwan,Summer,Families,August,Wednesday,Asia
+Marriott's Grand Chateau,5,Israel,Summer,Families,August,Sunday,Asia
+Marriott's Grand Chateau,5,Hawaii,Fall,Friends,September,Wednesday,North America
+Marriott's Grand Chateau,5,USA,Fall,Friends,September,Tuesday,North America
+Marriott's Grand Chateau,3,Thailand,Fall,Business,October,Monday,Asia
+Marriott's Grand Chateau,5,Mexico,Fall,Families,October,Wednesday,North America
+Marriott's Grand Chateau,4,Kuwait,Fall,Couples,November,Thursday,Asia
+Marriott's Grand Chateau,4,Norway,Fall,Couples,November,Sunday,Europe
+Marriott's Grand Chateau,5,USA,Winter,Couples,December,Tuesday,North America
+Marriott's Grand Chateau,4,Germany,Winter,Families,December,Thursday,Europe
+Tuscany Las Vegas Suites & Casino,5,USA,Winter,Couples,January,Saturday,North America
+Tuscany Las Vegas Suites & Casino,5,USA,Winter,Friends,January,Thursday,North America
+Tuscany Las Vegas Suites & Casino,3,UK,Winter,Business,February,Friday,Europe
+Tuscany Las Vegas Suites & Casino,5,USA,Winter,Business,February,Saturday,North America
+Tuscany Las Vegas Suites & Casino,5,USA,Spring,Friends,March,Sunday,North America
+Tuscany Las Vegas Suites & Casino,5,USA,Spring,Couples,March,Thursday,North America
+Tuscany Las Vegas Suites & Casino,5,Brazil,Spring,Couples,April,Monday,South America
+Tuscany Las Vegas Suites & Casino,4,USA,Spring,Couples,April,Wednesday,North America
+Tuscany Las Vegas Suites & Casino,2,India,Spring,Families,May,Thursday,Asia
+Tuscany Las Vegas Suites & Casino,3,USA,Spring,Business,May,Thursday,North America
+Tuscany Las Vegas Suites & Casino,5,Malaysia,Summer,Friends,June,Sunday,Asia
+Tuscany Las Vegas Suites & Casino,3,USA,Summer,Couples,June,Tuesday,North America
+Tuscany Las Vegas Suites & Casino,5,Germany,Summer,Couples,July,Wednesday,Europe
+Tuscany Las Vegas Suites & Casino,4,Canada,Summer,Business,July,Friday,North America
+Tuscany Las Vegas Suites & Casino,3,Canada,Summer,Business,August,Wednesday,North America
+Tuscany Las Vegas Suites & Casino,4,USA,Summer,Couples,August,Monday,North America
+Tuscany Las Vegas Suites & Casino,5,Australia,Fall,Couples,September,Sunday,Oceania
+Tuscany Las Vegas Suites & Casino,5,USA,Fall,Couples,September,Wednesday,North America
+Tuscany Las Vegas Suites & Casino,3,UK,Fall,Couples,October,Sunday,Europe
+Tuscany Las Vegas Suites & Casino,5,Canada,Fall,Business,October,Friday,North America
+Tuscany Las Vegas Suites & Casino,4,USA,Fall,Couples,November,Sunday,North America
+Tuscany Las Vegas Suites & Casino,3,USA,Fall,Business,November,Tuesday,North America
+Tuscany Las Vegas Suites & Casino,5,Canada,Winter,Families,December,Sunday,North America
+Tuscany Las Vegas Suites & Casino,5,USA,Winter,Friends,December,Tuesday,North America
+Hilton Grand Vacations at the Flamingo,3,USA,Winter,Business,January,Monday,North America
+Hilton Grand Vacations at the Flamingo,5,USA,Winter,Couples,January,Thursday,North America
+Hilton Grand Vacations at the Flamingo,2,UK,Winter,Couples,February,Sunday,Europe
+Hilton Grand Vacations at the Flamingo,2,USA,Winter,Families,February,Saturday,North America
+Hilton Grand Vacations at the Flamingo,5,USA,Spring,Friends,March,Friday,North America
+Hilton Grand Vacations at the Flamingo,5,Hawaii,Spring,Couples,March,Tuesday,North America
+Hilton Grand Vacations at the Flamingo,3,Hawaii,Spring,Families,April,Wednesday,North America
+Hilton Grand Vacations at the Flamingo,3,Canada,Spring,Families,April,Sunday,North America
+Hilton Grand Vacations at the Flamingo,3,USA,Spring,Friends,May,Sunday,North America
+Hilton Grand Vacations at the Flamingo,3,Canada,Spring,Families,May,Tuesday,North America
+Hilton Grand Vacations at the Flamingo,5,USA,Summer,Couples,June,Wednesday,North America
+Hilton Grand Vacations at the Flamingo,4,Australia,Summer,Couples,June,Wednesday,Oceania
+Hilton Grand Vacations at the Flamingo,3,USA,Summer,Families,July,Sunday,North America
+Hilton Grand Vacations at the Flamingo,5,Canada,Summer,Couples,July,Thursday,North America
+Hilton Grand Vacations at the Flamingo,4,USA,Summer,Families,August,Sunday,North America
+Hilton Grand Vacations at the Flamingo,5,USA,Summer,Families,August,Sunday,North America
+Hilton Grand Vacations at the Flamingo,5,Canada,Fall,Friends,September,Saturday,North America
+Hilton Grand Vacations at the Flamingo,4,USA,Fall,Business,September,Saturday,North America
+Hilton Grand Vacations at the Flamingo,4,Australia,Fall,Families,October,Friday,Oceania
+Hilton Grand Vacations at the Flamingo,4,India,Fall,Couples,October,Saturday,Asia
+Hilton Grand Vacations at the Flamingo,4,Czech Republic,Fall,Business,November,Thursday,Europe
+Hilton Grand Vacations at the Flamingo,5,USA,Fall,Business,November,Sunday,North America
+Hilton Grand Vacations at the Flamingo,4,USA,Winter,Couples,December,Tuesday,North America
+Hilton Grand Vacations at the Flamingo,5,Mexico,Winter,Families,December,Wednesday,North America
+Wyndham Grand Desert,4,USA,Winter,Friends,January,Monday,North America
+Wyndham Grand Desert,5,Australia,Winter,Families,January,Sunday,Oceania
+Wyndham Grand Desert,5,USA,Winter,Couples,February,Thursday,North America
+Wyndham Grand Desert,5,Canada,Winter,Couples,February,Monday,North America
+Wyndham Grand Desert,5,USA,Spring,Friends,March,Tuesday,North America
+Wyndham Grand Desert,4,USA,Spring,Couples,March,Tuesday,North America
+Wyndham Grand Desert,5,Canada,Spring,Families,April,Thursday,North America
+Wyndham Grand Desert,5,USA,Spring,Couples,April,Saturday,North America
+Wyndham Grand Desert,4,Australia,Spring,Families,May,Thursday,Oceania
+Wyndham Grand Desert,4,USA,Spring,Business,May,Tuesday,North America
+Wyndham Grand Desert,5,UK,Summer,Couples,June,Tuesday,Europe
+Wyndham Grand Desert,5,India,Summer,Families,June,Saturday,Asia
+Wyndham Grand Desert,5,UK,Summer,Families,July,Sunday,Europe
+Wyndham Grand Desert,4,USA,Summer,Friends,July,Thursday,North America
+Wyndham Grand Desert,3,USA,Summer,Families,August,Wednesday,North America
+Wyndham Grand Desert,5,Canada,Summer,Couples,August,Monday,North America
+Wyndham Grand Desert,5,USA,Fall,Friends,September,Tuesday,North America
+Wyndham Grand Desert,4,USA,Fall,Business,September,Sunday,North America
+Wyndham Grand Desert,3,Ireland,Fall,Couples,October,Thursday,Europe
+Wyndham Grand Desert,4,UK,Fall,Couples,October,Monday,Europe
+Wyndham Grand Desert,3,Japan,Fall,Families,November,Monday,Asia
+Wyndham Grand Desert,4,USA,Fall,Families,November,Sunday,North America
+Wyndham Grand Desert,4,USA,Winter,Families,December,Tuesday,North America
+Wyndham Grand Desert,5,Canada,Winter,Friends,December,Saturday,North America
+The Venetian Las Vegas Hotel,4,Ireland,Winter,Business,January,Friday,Europe
+The Venetian Las Vegas Hotel,5,USA,Winter,Solo,January,Wednesday,North America
+The Venetian Las Vegas Hotel,4,USA,Winter,Families,February,Saturday,North America
+The Venetian Las Vegas Hotel,5,Mexico,Winter,Couples,February,Sunday,North America
+The Venetian Las Vegas Hotel,3,USA,Spring,Couples,March,Thursday,North America
+The Venetian Las Vegas Hotel,5,USA,Spring,Couples,March,Wednesday,North America
+The Venetian Las Vegas Hotel,5,Israel,Spring,Couples,April,Sunday,Asia
+The Venetian Las Vegas Hotel,4,Australia,Spring,Couples,April,Friday,Oceania
+The Venetian Las Vegas Hotel,4,Australia,Spring,Families,May,Tuesday,Oceania
+The Venetian Las Vegas Hotel,5,UK,Spring,Couples,May,Monday,Europe
+The Venetian Las Vegas Hotel,5,USA,Summer,Couples,June,Monday,North America
+The Venetian Las Vegas Hotel,5,USA,Summer,Business,June,Sunday,North America
+The Venetian Las Vegas Hotel,4,Australia,Summer,Couples,July,Wednesday,Oceania
+The Venetian Las Vegas Hotel,4,UK,Summer,Couples,July,Sunday,Europe
+The Venetian Las Vegas Hotel,5,Canada,Summer,Families,August,Wednesday,North America
+The Venetian Las Vegas Hotel,5,UK,Summer,Couples,August,Saturday,Europe
+The Venetian Las Vegas Hotel,5,UK,Fall,Couples,September,Friday,Europe
+The Venetian Las Vegas Hotel,5,UK,Fall,Couples,September,Thursday,Europe
+The Venetian Las Vegas Hotel,5,Brazil,Fall,Couples,October,Friday,South America
+The Venetian Las Vegas Hotel,4,UK,Fall,Couples,October,Thursday,Europe
+The Venetian Las Vegas Hotel,5,Switzerland,Fall,Friends,November,Saturday,Europe
+The Venetian Las Vegas Hotel,5,Australia,Fall,Couples,November,Saturday,Oceania
+The Venetian Las Vegas Hotel,5,Singapore,Winter,Families,December,Thursday,Asia
+The Venetian Las Vegas Hotel,4,USA,Winter,Couples,December,Wednesday,North America
+Bellagio Las Vegas,4,Australia,Winter,Solo,January,Saturday,Oceania
+Bellagio Las Vegas,5,USA,Winter,Families,January,Thursday,North America
+Bellagio Las Vegas,4,USA,Winter,Couples,February,Tuesday,North America
+Bellagio Las Vegas,5,USA,Winter,Business,February,Friday,North America
+Bellagio Las Vegas,5,India,Spring,Couples,March,Tuesday,Asia
+Bellagio Las Vegas,2,USA,Spring,Business,March,Tuesday,North America
+Bellagio Las Vegas,5,Ireland,Spring,Business,April,Monday,Europe
+Bellagio Las Vegas,2,Spain,Spring,Families,April,Tuesday,Europe
+Bellagio Las Vegas,3,UK,Spring,Friends,May,Friday,Europe
+Bellagio Las Vegas,5,UK,Spring,Couples,May,Thursday,Europe
+Bellagio Las Vegas,5,UK,Summer,Families,June,Wednesday,Europe
+Bellagio Las Vegas,4,USA,Summer,Business,June,Sunday,North America
+Bellagio Las Vegas,5,USA,Summer,Couples,July,Friday,North America
+Bellagio Las Vegas,4,Korea,Summer,Families,July,Saturday,Asia
+Bellagio Las Vegas,4,USA,Summer,Solo,August,Monday,North America
+Bellagio Las Vegas,5,Scotland,Summer,Families,August,Sunday,Europe
+Bellagio Las Vegas,5,Ireland,Fall,Couples,September,Tuesday,Europe
+Bellagio Las Vegas,4,USA,Fall,Business,September,Tuesday,North America
+Bellagio Las Vegas,5,UK,Fall,Couples,October,Sunday,Europe
+Bellagio Las Vegas,4,UK,Fall,Couples,October,Saturday,Europe
+Bellagio Las Vegas,5,UK,Fall,Friends,November,Monday,Europe
+Bellagio Las Vegas,5,Canada,Fall,Friends,November,Saturday,North America
+Bellagio Las Vegas,4,India,Winter,Business,December,Monday,Asia
+Bellagio Las Vegas,2,Malaysia,Winter,Families,December,Friday,Asia
+Paris Las Vegas,4,USA,Winter,Couples,January,Saturday,North America
+Paris Las Vegas,5,Canada,Winter,Couples,January,Wednesday,North America
+Paris Las Vegas,2,USA,Winter,Couples,February,Wednesday,North America
+Paris Las Vegas,4,USA,Winter,Friends,February,Tuesday,North America
+Paris Las Vegas,2,USA,Spring,Couples,March,Tuesday,North America
+Paris Las Vegas,5,USA,Spring,Couples,March,Friday,North America
+Paris Las Vegas,4,USA,Spring,Business,April,Tuesday,North America
+Paris Las Vegas,3,Canada,Spring,Friends,April,Monday,North America
+Paris Las Vegas,5,USA,Spring,Friends,May,Thursday,North America
+Paris Las Vegas,3,USA,Spring,Couples,May,Sunday,North America
+Paris Las Vegas,5,Australia,Summer,Couples,June,Saturday,Oceania
+Paris Las Vegas,3,Costa Rica,Summer,Couples,June,Sunday,North America
+Paris Las Vegas,4,USA,Summer,Couples,July,Friday,North America
+Paris Las Vegas,4,UK,Summer,Families,July,Wednesday,Europe
+Paris Las Vegas,5,Egypt,Summer,Families,August,Friday,Africa
+Paris Las Vegas,5,USA,Summer,Couples,August,Thursday,North America
+Paris Las Vegas,4,USA,Fall,Couples,September,Thursday,North America
+Paris Las Vegas,5,Canada,Fall,Couples,September,Tuesday,North America
+Paris Las Vegas,2,Canada,Fall,Couples,October,Monday,North America
+Paris Las Vegas,5,USA,Fall,Couples,October,Saturday,North America
+Paris Las Vegas,4,USA,Fall,Couples,November,Monday,North America
+Paris Las Vegas,5,USA,Fall,Couples,November,Sunday,North America
+Paris Las Vegas,5,Canada,Winter,Couples,December,Saturday,North America
+Paris Las Vegas,4,USA,Winter,Friends,December,Thursday,North America
+The Westin las Vegas Hotel Casino & Spa,4,Canada,Winter,Couples,January,Monday,North America
+The Westin las Vegas Hotel Casino & Spa,3,USA,Winter,Families,January,Tuesday,North America
+The Westin las Vegas Hotel Casino & Spa,4,Italy,Winter,Solo,February,Friday,Europe
+The Westin las Vegas Hotel Casino & Spa,3,USA,Winter,Couples,February,Monday,North America
+The Westin las Vegas Hotel Casino & Spa,5,USA,Spring,Business,March,Wednesday,North America
+The Westin las Vegas Hotel Casino & Spa,5,USA,Spring,Friends,March,Thursday,North America
+The Westin las Vegas Hotel Casino & Spa,4,USA,Spring,Business,April,Monday,North America
+The Westin las Vegas Hotel Casino & Spa,4,Egypt,Spring,Solo,April,Sunday,Africa
+The Westin las Vegas Hotel Casino & Spa,3,USA,Spring,Friends,May,Sunday,North America
+The Westin las Vegas Hotel Casino & Spa,4,USA,Spring,Couples,May,Tuesday,North America
+The Westin las Vegas Hotel Casino & Spa,4,USA,Summer,Solo,June,Monday,North America
+The Westin las Vegas Hotel Casino & Spa,3,USA,Summer,Business,June,Sunday,North America
+The Westin las Vegas Hotel Casino & Spa,4,India,Summer,Families,July,Monday,Asia
+The Westin las Vegas Hotel Casino & Spa,5,USA,Summer,Couples,July,Monday,North America
+The Westin las Vegas Hotel Casino & Spa,3,USA,Summer,Families,August,Wednesday,North America
+The Westin las Vegas Hotel Casino & Spa,4,USA,Summer,Couples,August,Tuesday,North America
+The Westin las Vegas Hotel Casino & Spa,5,USA,Fall,Solo,September,Friday,North America
+The Westin las Vegas Hotel Casino & Spa,3,USA,Fall,Couples,September,Wednesday,North America
+The Westin las Vegas Hotel Casino & Spa,5,UK,Fall,Couples,October,Monday,Europe
+The Westin las Vegas Hotel Casino & Spa,5,UK,Fall,Couples,October,Sunday,Europe
+The Westin las Vegas Hotel Casino & Spa,4,Canada,Fall,Couples,November,Thursday,North America
+The Westin las Vegas Hotel Casino & Spa,4,USA,Fall,Friends,November,Thursday,North America
+The Westin las Vegas Hotel Casino & Spa,2,USA,Winter,Families,December,Wednesday,North America
+The Westin las Vegas Hotel Casino & Spa,4,USA,Winter,Families,December,Tuesday,North America
